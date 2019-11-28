@@ -1,2 +1,4 @@
 # Newton-Method-Examples
-Examples of applications of Newton's ethod for solving non linear problems
+Examples of applications of Newton's method for solving non linear problems
+
++ Banana function
